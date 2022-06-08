@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+  body{ 
+    text-align:center;
+    background-color: #151515;
+    background-position: cover ;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    
+  }
+  
+  img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 100px;
+    border: 5px teal solid;
+  }
+  button{ 
+  background-color: teal;
+  color: white; 
+  border-radius:20%;
+    
+  }
+  h1{
+    font-style: bold;
+  }
